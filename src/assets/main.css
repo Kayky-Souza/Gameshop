@@ -1,0 +1,11 @@
+*{
+  list-style: none;
+  text-decoration: none;
+  padding: 0;
+  margin: 0;
+}
+html{
+  box-sizing: border-box !important;
+  font-size: 62.5% !important;
+  background-color: #ddd;
+}
